@@ -1,6 +1,8 @@
 
 inputs = input()
 mas = inputs.split(' ')
+
+
 n=int(mas[0])
 m=int(mas[1])
 s = 0
